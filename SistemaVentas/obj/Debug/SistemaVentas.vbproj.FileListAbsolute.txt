@@ -1,0 +1,36 @@
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.xml
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbprojResolveAssemblyReference.cache
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formcategorias.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Resources.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.GenerateResource.Cache
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.xml
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formmenu.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formcliente.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formproducto.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormVenta.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Login1.resources
+E:\SISTEMAS ESCRITORIO\Vb\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormlistaVentas.resources
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.xml
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.AssemblyReference.cache
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.SuggestedBindingRedirects.cache
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formcategorias.resources
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formcliente.resources
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormlistaVentas.resources
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formmenu.resources
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Formproducto.resources
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormVenta.resources
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Login1.resources
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Resources.resources
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.GenerateResource.cache
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.vbproj.CoreCompileInputs.cache
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.xml
+C:\1) PROGRAMAS & CURSOS\1) PROGRAMAS\CURSOS NUEVOS\2) Sistema de Ventas en C# y SQL Server\Sistemas-de-Venta-Basico-master (PROYECTO\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
